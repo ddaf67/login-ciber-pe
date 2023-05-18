@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pagina web pt1/imagenes/fondos paginas"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "login starmix"
+	}
+}
